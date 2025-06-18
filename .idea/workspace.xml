@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7900f68-06c1-4988-b662-ba3ed4b472b2" name="Changes" comment="Add the refactored code">
-      <change afterPath="$PROJECT_DIR$/CalculateIndividualPointsFromHtmlRefactor.py" afterDir="false" />
+    <list default="true" id="b7900f68-06c1-4988-b662-ba3ed4b472b2" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,11 +13,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2ygbbEBfaJuT0Hkmq2KqfP7UBOf" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,13 +32,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.CalculateIndividualPoints.executor": "Run",
+    "Python.CalculateIndividualPointsFromHtmlRefactor.executor": "Run",
     "Python.CalculateIndividualPointsRefactor.executor": "Run",
     "Python.CalculateRelayPoints.executor": "Run",
     "Python.CalculateReplayPointsRefactor.executor": "Run",
+    "Python.app.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/TechiesRobotics/PycharmProjects/SwimMeetForcast"
+    "last_opened_file_path": "C:/Users/TechiesRobotics/PycharmProjects/SwimMeetForcast",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -81,7 +89,39 @@
       <option name="project" value="LOCAL" />
       <updated>1750273089453</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add retrieve data from html file">
+      <option name="closed" value="true" />
+      <created>1750273878370</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1750273878370</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add retrieve data from html file">
+      <option name="closed" value="true" />
+      <created>1750273883289</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1750273883289</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add retrieve data from html file">
+      <option name="closed" value="true" />
+      <created>1750274043490</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1750274043490</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1750274084637</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1750274084637</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +138,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Add the refactored code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add the refactored code" />
+    <MESSAGE value="Add retrieve data from html file" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
 </project>
