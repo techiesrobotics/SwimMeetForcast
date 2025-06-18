@@ -6,7 +6,7 @@ This program takes in relay data, convert to a formatted file, and calculate the
 teh result will be printed to the console
 '''
 # Step 1: Read from input file
-input_path = "relay_dta.txt"  # Update to your file path
+input_path = "relay_data.txt"  # Update to your file path
 with open(input_path, "r", encoding="utf-8") as f:
     lines = [line.strip() for line in f if line.strip()]
 
