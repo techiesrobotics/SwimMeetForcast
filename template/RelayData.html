@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Swim Meet Relay Score Estimator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 2rem;
+        }
+        textarea {
+            width: 100%;
+            height: 300px;
+            font-family: monospace;
+        }
+        input[type="submit"] {
+            padding: 10px 20px;
+            margin-top: 10px;
+            font-size: 16px;
+        }
+        pre {
+            background-color: #f4f4f4;
+            padding: 1rem;
+            white-space: pre-wrap;
+            border: 1px solid #ccc;
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <h1>Swim Meet Score Estimator</h1>
+    <form method="POST">
+        <label for="psych_sheet">Paste swim meet psych sheet data below:</label><br><br>
+        <textarea name="psych_sheet" id="psych_sheet" placeholder="#1 100 Free&#10;1&#10;Jane Doe&#10;12&#10;Team A&#10;1:10.00..."></textarea><br>
+        <input type="submit" value="Calculate Results">
+    </form>
+
+    {% if result %}
+    <pre>{{ result }}</pre>
+    {% endif %}
+</body>
+</html>
