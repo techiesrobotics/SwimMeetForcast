@@ -31,7 +31,7 @@ def individual_page():
                 result_text = buffer.getvalue()
             else:
                 result_text = "⚠️ No valid individual rows found."
-    return render_template("individual.html", result=result_text)
+    return render_template("Individual.html", result=result_text)
 
 @app.route("/relay", methods=["GET", "POST"])
 def relay_page():
