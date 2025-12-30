@@ -27,9 +27,9 @@ Before using this project, ensure
 
 ## Getting Started
 
-### Step 1: Access the Repository
-1. Open the project repository in your browser.
-2. Review the main `README.md` file for a high-level overview.
+### Step 1: Create files based on the psych sheet.  
+1. Follow the video to save the files for individual and relay events from the psych sheet
+2. Open the pdf file, copy and past to new text files for individual event and relay events separately.
 
 ### Step 2: Navigate the Project Structure
 The repository is organized as follows:
