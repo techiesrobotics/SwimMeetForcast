@@ -17,10 +17,11 @@ This documentation is intended for SwimTopia administrators who
 ---
 
 ## Prerequisites
-Before using this project, ensure you have:
-- admin right to swimtopia
+Before using this project, ensure 
+- You have admin right to swimtopia
+- You Have access to the pyshsheet of the meet
 - The meet is merged
-- Have access to the pyshsheet of the meet
+- The MeetMastro is created
 
 ---
 
