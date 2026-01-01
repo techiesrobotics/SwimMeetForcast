@@ -32,5 +32,7 @@ Before using this project, ensure
 2. Open the pdf file, copy and paste to new text files for individual events and relay events separately.
 
 ### Step 2: Launch the application
+1. For Individual events, follow the steps at https://youtu.be/gsq4uPIRs_g
+2. For Relay events, follow the steps at https://youtu.be/mneSMH09cRQ
 
 
